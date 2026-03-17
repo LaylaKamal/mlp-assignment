@@ -1,4 +1,4 @@
-# Breast Cancer Classification using MLP
+
 ## How to Run
 pip install -r requirements.txt
 ```bash
